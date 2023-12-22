@@ -1,0 +1,9 @@
+.custom-row.mat-row {
+    background-color: inherit;
+
+}
+
+
+tr:nth-child(even) {
+    background-color: #747474;
+}
